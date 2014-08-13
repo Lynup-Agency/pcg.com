@@ -1,0 +1,13 @@
+body {
+	height:100%; overflow-y:hidden;
+}
+
+.with-bg-size
+  {
+    background-image:url(../../images/activation-bg.jpg);
+    width: 260%;
+    height: 260%;
+    background-position: center;
+    background-size: cover;
+  }
+  
