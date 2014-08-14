@@ -1105,10 +1105,15 @@ label.error {
     z-index: -1;
   }
 }
+
+.icon-box-body{
+  text-align:left;
+}
 .icon-box .icon-box-body {
   overflow: hidden;
   position: relative;
   z-index: 2;
+  text-align: left;
 }
 .icon-box .icon-box-body h3,
 .icon-box .icon-box-body h4 {
@@ -1173,7 +1178,7 @@ label.error {
 }
 @media (min-width: 992px) {
   .icon-box.boxed {
-    padding: 40px;
+    padding: 20px;
   }
 }
 .icon-box.boxed .icon:after {

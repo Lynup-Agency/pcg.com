@@ -64,6 +64,51 @@ background-position:top;
 	margin-bottom: 15px;
 }
 
+/*===JK style edits ===*/
+.project-desc .title{
+	text-align: left;
+	border: none;
+}
+
+.project-desc .desc{
+	text-align: left;
+}
+
+.widget__footer .thumbnail{
+	text-align: left;
+}
+
+
+
+/*=== MEDIA QUERIES - JK ===*/
+
+@media (min-width: 992px){
+
+}
+
+/*@media (max-width: 767px) {*/
+@media (max-width: 997px) {
+	.nav-main{
+		clear: none;
+	}
+
+	.financial-image{
+		margin-left: -180px !important;
+	}
+
+	.icon-box .boxed{
+		text-align: center;
+	}
+
+	.owl-wrapper-outer .owl-wrapper .owl-item .item blockquote{
+		line-height: 30px !important;
+	}
+
+	.owl-carousel .owl-wrapper, .owl-carousel .owl-item{
+		margin-left: 30px;
+	}
+}
+
 /*
 
 -webkit-background-size: cover; -mox-background-size: cover; -o-background-size: cover; background-size: cover;

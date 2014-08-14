@@ -2142,6 +2142,7 @@ h2 + .featured-section {
   padding: 8px 0 10px 20px;
   position: relative;
   border-bottom: 1px solid #dcdcdc;
+  min-width: 180px;
 }
 .widget_archive ul li:before,
 .widget_nav_menu ul li:before,
@@ -3134,6 +3135,7 @@ h2 + .featured-section {
 .project-desc {
   text-align: center;
   padding: 25px 20px;
+  min-height: 250px;
 }
 .project-desc .title {
   margin-bottom: 5px;
@@ -3151,6 +3153,8 @@ h2 + .featured-section {
 .project-desc .desc {
   color: #b4b8be;
   font-style: italic;
+  display: block; 
+  line-height: 18px;
 }
 .section-dark .project-desc .desc {
   color: #aeaeae;

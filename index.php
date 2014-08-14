@@ -229,7 +229,7 @@
 						<div class="col-md-4">
 						<!-- 	<div class="icon-box centered  boxed " style="height:600px"> -->
 						<figure class="aligncenter">
-							<img src="images/CustomFinancialServices.jpg" alt="Custom Financial Services"/>
+							<img class="financial-image" src="images/CustomFinancialServices.jpg" alt="Custom Financial Services"/>
 						</figure>
 								
                                 <div class="icon-box-body">
@@ -307,7 +307,7 @@
 								</div>-->
 								<div class="icon-box-body">
 									<br />
-									<div class="section-header">Funding on your Schedule</div>
+									<div class="section-header funcing-header">Funding on your Schedule</div>
 									<p>
 									Experience small business funding on your schedule with Polaris Capital Group. Once approved your business loan can be funded in a hurry. Fast funding means that you can get back to doing what you do best, running your business. Trust our team to put you on the path to growth with small business loan products that meet your needs.
 									</p>
@@ -430,11 +430,11 @@
 						<!-- Testimonials Slider -->
 						<div class="owl-carousel owl-theme owl-slider owl-testi">
 							
-							<div class="item" style="height:305px">
+							<div class="item" style="height:305px; margin-left: 30px;">
 								
 							<!-- img src="images/ChadSchwartz.jpg" style="float:left;" > < / img -->
 							<!-- <div style="width:800px;float:right;" -->
-								<blockquote >
+								<blockquote style="line-height: 32px;">
 								<!-- span style="line-height:36px; font-size: 24px;font-style: italic;" -->
 We love nothing more than seeing our clients succeed. We find out the best service or loan for your needs, then work tirelessly to get your loan approved in one day. Not three days, not two weeks. We will not stop until you get what you need to grow your business.
 								</blockquote>

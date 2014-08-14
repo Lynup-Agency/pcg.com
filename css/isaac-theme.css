@@ -2999,6 +2999,7 @@ h2 + .featured-section {
 .project-desc {
   text-align: center;
   padding: 25px 20px;
+  min-height: 250px;
 }
 .project-desc .title {
   margin-bottom: 5px;
