@@ -7,7 +7,7 @@
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<title>Small Business Loan Funding - Credit Repair Working Capital Loans LTV</title>
-	<meta name="description" content="Polaris Capital Group">
+	<meta name="description" content="Polaris Capital Group provides loans and financial services tailored for small businesses.">
 	<meta name="author" content="http://www.lynupsocial.com">
 	
 
@@ -37,7 +37,6 @@
 	<link rel="stylesheet" href="css/theme.css">
 	<link rel="stylesheet" href="css/theme-elements.css">
 	<link rel="stylesheet" href="css/animate.min.css">
-	<link rel="stylesheet" href="css/custom.css">
 	<!-- Skin CSS
 	<link rel="stylesheet" href="css/skins/red.css"> -->
 		<link rel="stylesheet" href="css/skins/orange.css">
@@ -135,7 +134,7 @@
 					<div class="tp-banner" >
 						<ul>
 							<!-- SLIDE #1  -->
-							<li data-transition="random" data-slotamount="1" data-masterspeed="1000" data-delay="6000" style="width: 100%; height: 100%; overflow:hidden; visibility: visible; left:0px; right:0px">
+							<li data-transition="fade" data-slotamount="1" data-masterspeed="1000" data-delay="6000" style="width: 100%; height: 100%; overflow:hidden; visibility: visible; left:0px; right:0px">
 								<!-- MAIN IMAGE -->
 								<img src="images/slide_1a.jpg" alt="Small Business Credit Repair" data-bgfit="cover" data-bgposition="center top" data-bgrepeat="no-repeat">
 
@@ -230,7 +229,7 @@
 						<div class="col-md-4">
 						<!-- 	<div class="icon-box centered  boxed " style="height:600px"> -->
 						<figure class="aligncenter">
-							<img src="images/CustomFinancialServices.jpg"></img>
+							<img src="images/CustomFinancialServices.jpg" alt="Custom Financial Services"/>
 						</figure>
 								
                                 <div class="icon-box-body">
@@ -243,7 +242,7 @@
 
 						<div class="col-md-4" >
 							<figure class="aligncenter">
-								<img src="images/mech.jpg"></img>
+								<img src="images/mech.jpg" alt="Use your personal assets as collateral"/>
 								<div class="icon-box-body">
                                 
 									<br />
@@ -268,7 +267,7 @@
 					<div class="row">
 						<div class="col-md-4">
 							<div class="icon-box centered  boxed " style="height:460px">
-								<img src="images/step1.jpg" ></img>
+								<img src="images/step1.jpg" alt="Simplified Application"/>
 								<!--<div class="icon">
 									<i class="fa fa-html5"></i>
 								</div>-->
@@ -286,7 +285,7 @@
 						</div>
 						<div class="col-md-4">
 							<div class="icon-box centered  boxed"  style="height:460px">
-								<img src="images/step2.jpg"></img>
+								<img src="images/step2.jpg" alt="Fast Approval"/>
 								<!--<div class="icon">
 									<i class="fa fa-briefcase"></i>
 								</div>-->
@@ -302,7 +301,7 @@
 						</div>
 						<div class="col-md-4" >
 							<div class="icon-box centered  boxed"  style="height:460px"> 
-								<img src="images/step3.jpg" ></img>
+								<img src="images/step3.jpg" alt="Funding on Your Schedule" />
 								<!--<div class="icon">
 									<i class="fa fa-tablet"></i>
 								</div>-->
@@ -330,7 +329,7 @@
 							<center>
 							<p style="font-family:Oswald, San Serif; font-size:36px; line-height:1.2em; font-weight:bold; color:#ffffff;">LEARN MORE ABOUT POLARIS CAPITAL GROUP</p>
 							<!--
-							<img src="images/learnMoreAboutPCG.png" style="padding-bottom:40px"></img>
+							<img src="images/learnMoreAboutPCG.png" style="padding-bottom:40px"/>
 							-->
 							</center>
 							<!-- <font style="position:relative;top:-10px;color:white;font-size:24px;text-shadow:0px -1px 10px #000000;font-family:'Oswald',serif"> </font> -->
@@ -425,7 +424,7 @@
 					<!-- Testimonials -->
 					<section class="section-light section-bottom" data-animation="fadeInUp">
 					<div class="col-sm-6 col-md-2">
-						<img src="images/ChadSchwartz.jpg" style="float:left;"></img>
+						<img src="images/ChadSchwartz.jpg" style="float:left;"alt="Chad Schwartz, CEO"/>
 					</div>
 					<div class="col-sm-6 col-md-9">
 						<!-- Testimonials Slider -->

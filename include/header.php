@@ -25,26 +25,26 @@
 				</div> 
 			<!-- Logo / End -->
 
-					<button type="button" class="navbar-toggle">
+					<button type="button" class="navbar-toggle" title="nav-bar">
 			        <i class="fa fa-bars"></i>
 			      </button>
 
 			      <!-- Navigation -->
 					<nav class="nav-main" style="height:138px;">
 						<ul data-breakpoint="992" class="flexnav"  >
-							<li class="active" style="height: 139px;"><a href="index.php">Home</a></li>
-							<li  style="height: 142px;"><a href="product-highlights.php">Product Highlights</a></li>
-							<li  style="height: 142px;"><a href="how-it-works.php">How It Works</a></li>
-							<li  style="height: 142px;"><a href="about-us.php">About Us</a>
+							<li class="active"><a href="index.php">Home</a></li>
+							<li><a href="product-highlights.php">Product Highlights</a></li>
+							<li><a href="how-it-works.php">How It Works</a></li>
+							<li><a href="about-us.php">About Us</a>
 								<ul>
 									<li><a href="our-story.php">Our Story</a></li>
 									<li><a href="why-choose-us.php">Why Choose Us</a></li>		
 									<li><a href="events.php">Events</a></li>		
 								</ul>
 							</li>
-							<li  style="height: 142px;"><a href="faqs.php">FAQ's</a></li>
+							<li><a href="faqs.php">FAQ's</a></li>
 							<!-- <li  style="height: 142px;"><a href="press-and-news.php">Press & News</a></li> -->
-							<li style="height: 142px;"><a href="contacts.php">CONTACT US</a></li>
+							<li><a href="contacts.php">CONTACT US</a></li>
 						</ul>
 					</nav>
 					<!-- Navigation / End -->

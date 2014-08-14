@@ -20,7 +20,7 @@
 													<span style="font-size:14px;font-family:Arial;font-color:white">Polaris Capital Group</span>
 													<br/>
 													<a class="thumbnail" href="contacts.php"> 1 America Plaza 600 West Broadway<span>
-                                                    <img src="images/hover-map.jpg" /></a></br> Suite 350<br />San Diego, CA 92101
+                                                    <img src="images/hover-map.jpg" alt="Location"/></a></br> Suite 350<br />San Diego, CA 92101
 												</div>
 											</li>
 											<li>
