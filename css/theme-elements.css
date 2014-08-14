@@ -1153,7 +1153,7 @@ label.error {
   background: #dc2a0b;
 }
 .icon-box.centered {
-  text-align: left;
+  text-align: center;
 }
 @media (min-width: 992px) {
   .icon-box.centered {

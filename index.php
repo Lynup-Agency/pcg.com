@@ -423,14 +423,14 @@
 
 					<!-- Testimonials -->
 					<section class="section-light section-bottom" data-animation="fadeInUp">
-					<div class="col-sm-6 col-md-2">
-						<img src="images/ChadSchwartz.jpg" style="float:left;"alt="Chad Schwartz, CEO"/>
+					<div class="col-sm-6 col-md-2 ceo-block">
+						<img src="images/ChadSchwartz.jpg" alt="Chad Schwartz, CEO"/>
 					</div>
 					<div class="col-sm-6 col-md-9">
 						<!-- Testimonials Slider -->
 						<div class="owl-carousel owl-theme owl-slider owl-testi">
 							
-							<div class="item" style="height:305px; margin-left: 30px;">
+							<div class="item" style="height:305px;">
 								
 							<!-- img src="images/ChadSchwartz.jpg" style="float:left;" > < / img -->
 							<!-- <div style="width:800px;float:right;" -->
