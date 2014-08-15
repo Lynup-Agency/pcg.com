@@ -78,6 +78,10 @@ background-position:top;
 	text-align: left;
 }
 
+.tp-caption.stability_large_white{
+	margin-top: 35px !important;
+}
+
 
 
 /*=== MEDIA QUERIES - JK ===*/
