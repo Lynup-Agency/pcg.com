@@ -6,7 +6,7 @@
 	================================================== -->
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<title>Funding for Small Business - LTV POS Loans Credit Repair</title>
+	<title>Funding for Small Business - LTV POS Loans</title>
 	<meta name="description" content="Stability - Responsive HTML5 Template - 1.5">
 	<meta name="author" content="http://themeforest.net/user/dan_fisher">
 	

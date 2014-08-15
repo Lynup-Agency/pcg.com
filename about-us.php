@@ -168,7 +168,7 @@
 						<p>
 						<strong>Polaris Capital Group</strong> provides a comprehensive range of personal and business financial services. Our goal is to provide the right funding solution for all small business financial needs with an outstanding customer service experience. </p>
 						<p>
-						We provide business loan services and options to small businesses that are typically underserved by banks. Obtaining funding through big banks can be challenging, and when you’ve already put so much into your business, being told “no” is disheartening. That’s where Polaris comes in. We have a range of alternative funding options that can meet your needs. <strong>From credit repair services to private business loans, Polaris Capital Group has the experience, knowledge, and resources to find you the right funding, fast. </strong></p>
+						We provide business loan services and options to small businesses that are typically underserved by banks. Obtaining funding through big banks can be challenging, and when you’ve already put so much into your business, being told “no” is disheartening. That’s where Polaris comes in. We have a range of alternative funding options that can meet your needs. <strong>Polaris Capital Group has the experience, knowledge, and resources to find you the right funding, fast. </strong></p>
 						</div>
 							
 					</div>

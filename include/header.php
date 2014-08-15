@@ -16,7 +16,9 @@
 					<!-- Logo -->
 <!-- 
  				<img src="images/logo_30.png" alt="Polaris" /> 
+
 -->
+
 			<!-- Logo -->
 				<div class="logo">
 					<a href="index.php" ><img src="images/logo_239.png" alt="Polaris" /></a>
@@ -42,7 +44,7 @@
 							</li>
 							<li><a href="faqs.php">FAQ's</a></li>
 							<!-- <li  style="height: 142px;"><a href="press-and-news.php">Press & News</a></li> -->
-							<li><a href="contacts.php">Contact Us</a></li>
+							<li><a href="contacts.php">CONTACT US</a></li>
 						</ul>
 					</nav>
 					<!-- Navigation / End -->

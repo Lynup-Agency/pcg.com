@@ -182,7 +182,7 @@
 					<div class="row">
 						<div class="col-md-9">
                         
-                        <p>As a San Diego small business credit repair company, we guarantee that our knowledgeable associates will deliver superior service and fast results to help you on your way in growing your business. We have a solid foundation in San Diego, but we also serve businesses nationally. Feel free to contact us with any questions concerning credit repair for businesses, cash advances for businesses, working capital loans, and many more services. Simply fill out the form with your Name, Business Name, Email, and a short paragraph detailing how we can help you and your business. We will respond as soon as possible.
+                        <p>We guarantee that our knowledgeable associates will deliver superior service and fast results to help you on your way in growing your business. We have a solid foundation in San Diego, but we also serve businesses nationally. Feel free to contact us with any questions concerning cash advances for businesses, working capital loans, and many more services. Simply fill out the form with your Name, Business Name, Email, and a short paragraph detailing how we can help you and your business. We will respond as soon as possible.
                         
                         </p></br></br>
 							<iframe height="600" allowTransparency="true" frameborder="0" scrolling="no" style="width:100%;border:none"  src="https://lynupcreativeservices.wufoo.com/embed/w1ntgq5c1x0y4j7/"><a href="https://lynupcreativeservices.wufoo.com/forms/w1ntgq5c1x0y4j7/">Fill out my Wufoo form!</a></iframe>

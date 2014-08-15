@@ -408,7 +408,7 @@
  -->
 										</figure>
 										<div class="project-desc">
-											<h4 class="title"><a href="our-team.php">Our Team</a></h4>
+											<h4 class="title" style="color: #ffffff;">Our Team</h4> 
 											<span class="desc">We are proud to work with a highly talented, extremely motivated group of business loan consultants who are eager to help you grow your business. Click here to learn more about the team you’ll work with at Polaris.</span>
 										</div>
 									</div>

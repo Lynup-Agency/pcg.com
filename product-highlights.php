@@ -6,7 +6,7 @@
 	================================================== -->
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<title>Small Business Credit Repair LTV Inventory Working Capital POS Loans</title>
+	<title>Small Business LTV Inventory Working Capital POS Loans</title>
 	<meta name="description" content="Polaris Capital Group">
 	<meta name="author" content="http://www.lynupsocial.com">
 	
@@ -97,7 +97,7 @@
 
 			<!-- Logo -->
 				<div class="logo">
-					<a href="index.php" ><img src="images/logo_239.png" alt="Small Business Credit Repair" /></a>
+					<a href="index.php" ><img src="images/logo_239.png" alt="Small Business  " /></a>
 				</div> 
 			<!-- Logo / End -->
 
@@ -165,7 +165,7 @@
 							</div>
 							Our team at <strong>Polaris Capital Group</strong> is ready to prove that finding the right funding for small business owners isn’t complicated or difficult. There are many types of financing available through our network of trusted lenders, and by understanding the individual needs of each small business owner, we can offer the best possible options. 
 							<p>
-							With our expert team of business loan consultants, startup business loans and commercial business loans are within reach for nearly anybody. From bank statement analysis to credit repair, we can walk small business owners through all of the options available. <strong>Let Polaris Capital Group handle your small business financing so that you can concentrate on growing your business. </strong>
+							With our expert team of business loan consultants, startup business loans and commercial business loans are within reach for nearly anybody. From bank statement analysis to  , we can walk small business owners through all of the options available. <strong>Let Polaris Capital Group handle your small business financing so that you can concentrate on growing your business. </strong>
 						  <p>
 							Most importantly, we understand that every business owner is in a different situation with different needs. Whether you’re looking for a simple, low interest business loan or need financing for new equipment, Polaris Capital Group will work with you individually to find the best option for you.<strong> Polaris Capital group is your best choice for commercial business loans and a smart alternative to traditional banks. </strong></p>
 							<div class="spacer-sm"></div>

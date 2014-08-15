@@ -265,7 +265,7 @@
 										</div>
 									</div>
 								</div>
-								<div class="panel panel-default">
+								<!--<div class="panel panel-default">
 									<div class="panel-heading">
 										<h4 class="panel-title">
 											<a data-toggle="collapse" data-parent="#accordion" href="#accordion-6" class="collapsed">
@@ -276,11 +276,11 @@
 									<div id="accordion-6" class="panel-collapse collapse">
 										<div class="panel-body">
 											<p>
-											Polaris Capital Group recognizes that even for those with bad credit, small business loans are and should be possible. Our team of expert Business Loan Consultants will work with you to find a way to get the funding you need. The lenders we work with are able to offer high risk business loans because we first determine the best financial service for each individual client. We also offer guaranteed credit repair services, where one of our Consultants goes through each line of your credit report with you and helps you make a plan to improve your credit.
+											Polaris Capital Group recognizes that even for those with bad credit, small business loans are and should be possible. Our team of expert Business Loan Consultants will work with you to find a way to get the funding you need. The lenders we work with are able to offer high risk business loans because we first determine the best financial service for each individual client. We also offer guaranteed   services, where one of our Consultants goes through each line of your credit report with you and helps you make a plan to improve your credit.
 											</p>
 										</div>
 									</div>
-								</div>
+								</div>-->
 								<div class="panel panel-default">
 									<div class="panel-heading">
 										<h4 class="panel-title">
@@ -329,22 +329,7 @@
 										</div>
 									</div>
 								</div>
-								<div class="panel panel-default">
-									<div class="panel-heading">
-										<h4 class="panel-title">
-											<a data-toggle="collapse" data-parent="#accordion" href="#accordion-10" class="collapsed">
-												If I hire Polaris to repair my credit, how long until my score improves?
-											</a>
-										</h4>
-									</div>
-									<div id="accordion-10" class="panel-collapse collapse">
-										<div class="panel-body">
-											<p>
-											It depends. Most of our clients start seeing higher credit scores in 35 days to 6 months.
-											</p>
-										</div>
-									</div>
-								</div>
+								
 							</div>
 						</div>
 						<div class="col-md-3" data-animation="bounce" data-animation-delay="0">
