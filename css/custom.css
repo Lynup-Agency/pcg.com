@@ -64,7 +64,9 @@ background-position:top;
 	margin-bottom: 15px;
 }
 
+
 /*===JK style edits ===*/
+
 .project-desc .title{
 	text-align: left;
 	border: none;
@@ -146,9 +148,6 @@ background-position:top;
 	}
 
 
-	.owl-theme .owl-item .project-item{
-		/*height: 455px !important;*/
-	}
 
 	.icon-box.boxed{
 		height: auto !important;
