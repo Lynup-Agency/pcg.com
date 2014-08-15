@@ -6,7 +6,7 @@
 	================================================== -->
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<title>Small Business Loan Funding - Credit Repair Working Capital Loans LTV</title>
+	<title>Small Business Loan Funding - Working Capital Loans LTV</title>
 	<meta name="description" content="Polaris Capital Group provides loans and financial services tailored for small businesses.">
 	<meta name="author" content="http://www.lynupsocial.com">
 	
@@ -136,7 +136,7 @@
 							<!-- SLIDE #1  -->
 							<li data-transition="fade" data-slotamount="1" data-masterspeed="1000" data-delay="6000" style="width: 100%; height: 100%; overflow:hidden; visibility: visible; left:0px; right:0px">
 								<!-- MAIN IMAGE -->
-								<img src="images/slide_1a.jpg" alt="Small Business Credit Repair" data-bgfit="cover" data-bgposition="center top" data-bgrepeat="no-repeat">
+								<img src="images/slide_1a.jpg" alt="Small Business" data-bgfit="cover" data-bgposition="center top" data-bgrepeat="no-repeat">
 
 								<!-- LAYERS -->
 						
@@ -235,7 +235,7 @@
                                 <div class="icon-box-body">
 									<br />
 									<div class="section-header">Financial services tailored for small businesses</div>
-									<p>Many big banks and traditional lenders don’t support small businesses with the financial resources they need. It’s often a challenging, frustrating, and time-consuming process to get a small business loan approved and funded. Polaris Capital Group offers unique financial services designed specifically for small business owners, ranging from business loans to credit repair.  </p>
+									<p>Many big banks and traditional lenders don’t support small businesses with the financial resources they need. It’s often a challenging, frustrating, and time-consuming process to get a small business loan approved and funded. Polaris Capital Group offers unique financial services designed specifically for small business owners.</p>
 								</div>
 						</div>
                         
@@ -355,7 +355,7 @@
 										</figure>
 										<div class="project-desc">
 											<h4 class="title"><a href="product-highlights.php">Product Highlights</a></h4>
-											<span class="desc">From asset-backed loans to credit repair, we’re confident that we can provide the financial support your business needs. Click here to learn more about our services.<br /><br/><br /></span>
+											<span class="desc">We’re confident that we can provide the financial support your business needs. Click here to learn more about our services.<br /><br/><br /></span>
 										</div>
 									</div>
 							   </div>
