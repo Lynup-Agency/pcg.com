@@ -181,7 +181,7 @@
 							Background In Business
 							</div>
 							<p>
-							With his background in business, Chad knew that the financial services small businesses and start-ups need are not “one size fits all.” Some need fast cash to purchase more equipment so they can expand to meet customer needs. Others don’t yet have the credit or equity to secure a traditional commercial business loan. They may have already secured a loan, but would like to lower their interest rates. Some just need a consultant to go through their credit report and provide strategies to improve it. 
+							With his background in business, Chad knew that the financial services small businesses and start-ups need are not “one size fits all.” Some need fast cash to purchase more equipment so they can expand to meet customer needs. Others don’t yet have the credit or equity to secure a traditional commercial business loan. They may have already secured a loan, but would like to lower their interest rates. Some just need a consultant to go through their financial history and provide strategies to improve it. 
 							</p>
 							<div class="section-header">
 							<br />Making It Simple
