@@ -82,6 +82,11 @@ background-position:top;
 	margin-top: 35px !important;
 }
 
+.section-header{
+	text-align: left;	
+}
+
+
 
 
 /*=== MEDIA QUERIES - JK ===*/

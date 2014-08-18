@@ -281,7 +281,7 @@
 									<br />
 									<div class="section-header"><h2>Private Equity Loan</h2></div>
 									<p>
-									Your home can be an asset in the growth of your business with a real estate-backed hard money loan. Though other companies may offer a loan of up to 65% your home’s equity, Polaris Capital Group is the only company in the state of California that can provide a loan of up to 75% of the value of your home. These hard money, quick business loans can be used to pay either business or personal expenses.
+									Your home can be an asset in the growth of your business with a real estate-backed private equity loan. Though other companies may offer a loan of up to 65% your home’s equity, Polaris Capital Group is the only company in the state of California that can provide a loan of up to 75% of the value of your home. We can do this because we extend our own credit to consumers. These private equity, quick business loans can be used to pay either business or personal expenses.
 									</p>
 									<!-- <a href="#" class="btn btn-default">Read More</a> -->
 								</div>
