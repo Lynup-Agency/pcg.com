@@ -169,7 +169,7 @@
 
 				<div class="container">
 					<div class="call-to-action">
-					<div class="section-header">
+					<div class="section-header" style="text-align:center;">
 					Polaris Capital Group can help you secure the financing that you need to grow 
 					</div>
 					<center>
