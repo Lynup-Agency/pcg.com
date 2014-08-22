@@ -30,6 +30,10 @@
     border-radius: 15px;  
 }
 
+.progressbar-holder {
+   width: 650px;
+   margin-left: -43px;
+}
 #container2 {    
 	margin-top: 170px;    
 	z-index: 0;    
@@ -381,7 +385,16 @@ position: relative;
     background-repeat:repeat;
     margin-top: -565px;
     margin-left: 400px;
-    	}
+        }
+
+
+#msformLeft1 {
+    width: 700px;
+    height: 250px;
+    position: relative;
+    }
+    
+
 
 #msformRight {
     width: 400px;
@@ -696,18 +709,31 @@ display:block;
 #msform .action-button3 {
 
 width: 100px;
-
 height: 30px;
-
 background-image:url(../images/upload.png);
-
 cursor: pointer;
-
 float: right;
-
 margin-right: 25px;
-
 margin-top: 7px;
+
+}
+
+.wrapper {
+    width: 700px;
+}
+
+.file-upload {
+    float: left;
+    padding-left: 25px;
+}
+#msform .action-button4 {
+
+width: 100px;
+height: 30px;
+background-image:url(../images/upload.png);
+cursor: pointer;
+margin-left: 25px;
+margin-top: -12px;
 
 }
 
