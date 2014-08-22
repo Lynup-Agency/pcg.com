@@ -1,0 +1,5 @@
+-------Changes-------
+
+1. I added a new page - form6.html which is a Thank you page.
+2. Changed style of summary page
+3. Linked steps, so each steps is link to different page. 

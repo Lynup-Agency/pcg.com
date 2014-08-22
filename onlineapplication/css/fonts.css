@@ -1,0 +1,51 @@
+@font-face {
+  font-family: 'TrajanPro';
+  src: url('../fonts/TrajanPro-Regular.otf') format('opentype'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+@font-face {
+  font-family: 'TrajanProBold';
+  src: url('../fonts/TrajanPro-Bold.otf') format('opentype'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+@font-face {
+  font-family: 'cheddarJack';
+  src: url('../fonts/Cheddar Jack.ttf') format('truetype'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+@font-face {
+  font-family: 'NotoSansBold';
+  src: url('../fonts/NotoSans-Bold.ttf') format('truetype'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+@font-face {
+  font-family: 'NotoSans';
+  src: url('../fonts/NotoSans-Regular.ttf') format('truetype'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+
+
+
+h1 {
+	font-family: 'NotoSansBold', sans-serif;
+	font-size: 20px;
+	color: #53230a;
+	}
+h5 {
+	font-family: 'NotoSansBold', sans-serif;
+	font-size: 14px;
+	color: #333333;
+	}
+
+h2 {
+	font-family: 'TrajanPro', sans-serif;
+	font-size: 12px;
+	color: #333333;
+	}
+h3 {
+	font-family: 'TrajanPro', sans-serif;
+	font-size: 16px;
+	color: #333333;
+	margin-left: 22px;
+	}
+h4 {
+	font-family: 'TrajanPro', sans-serif;
+	font-size: 20px;
+	color: #bd824f;
+	text-align: left;
+	}

@@ -1,0 +1,55 @@
+db.gazelle.platform.properties.insert("key" : "propertyFilePath", "value" : "/usr/local/gazelle/config/GazelleCORE/GazelleApplicationProperties.xml"} )
+
+db.gazelle.LoanApplication.insert({put a test record in here});
+
+{    
+	"applicationId" : "application-id-goes-here", 
+	"applicationTimestamp" : "timestamp-goes-here",	
+	"business" : "value_of_business", 
+    "businessType" : "value_of_businessType",
+    "address1" : "value_of_address1",
+    "address2" : "value_of_address2",
+    "city" : "value_of_city",
+    "state" : "value_of_state",
+    "zipCode" : "value_of_zipCode",
+    "phoneNumber" : "value_of_phoneNumber",
+    "ownership" : "value_of_ownership",
+    "amountRequested" : "value_of_amountRequested",
+    "useOfFunds" : "value_of_useOfFunds",
+    "tradeRef1" : "value_of_tradeRef1",
+    "tradeRef2" : "value_of_tradeRef2",
+    "tradeRef3" : "value_of_tradeRef3",
+    "industryType" : "value_of_industryType",
+    "officeRented" : "value_of_officeRented",
+    "landLord" : "value_of_landLord",
+    "landLordPhone" : "value_of_landLordPhone",
+    "creditCardProcessor" : "value_of_creditCardProcessor",
+    "averegeMCCV" : "value_of_averegeMCCV",
+    "otherContracts" : "value_of_otherContracts",
+    "useOfProceeds" : "value_of_useOfProceeds",
+	"primaryContact" : "value_of_primaryContact",
+    "jobTitle" : "value_of_jobTitle",
+    "dateOfBirth" : "value_of_dateOfBirth",
+    "SSN" : "value_of_SSN",
+    "businessAddress" : "value_of_businessAddress",
+    "businessCity" : "value_of_businessCity",
+    "businessState" : "value_of_businessState",
+    "businessZip2" : "value_of_businessZip2",
+    "billingAddress" : "value_of_billingAddress",
+    "billingCity" : "value_of_billingCity",
+    "businessState2" : "value_of_businessState2",
+    "businessZip" : "value_of_businessZip",                        
+	"avgBankBalance" : "value_of_avgBankBalance",
+    "fedTaxID" : "value_of_fedTaxID",
+    "yearStarted" : "value_of_yearStarted", 
+    "businessEmail" : "value_of_businessEmail",
+    "annualSales" : "value_of_annualSales",
+    "totalCreditCard" : "value_of_totalCreditCard",
+    "ukupnaVrednost" : "value_of_totalCreditCard",
+    "amountPerMonths" : "value_of_amountPerMonths",
+    "totAmount" : "value_of_totAmount"
+}
+
+	
+
+

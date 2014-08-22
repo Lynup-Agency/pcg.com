@@ -1,0 +1,144 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" >
+<title>Polaris CG | Form</title>
+
+<!--Stle CSS-->
+<link href="css/style.css" rel="stylesheet" type="text/css" media="screen" >
+<link href='http://fonts.googleapis.com/css?family=Anton|Muli:300,400,400italic,300italic|Oswald' rel='stylesheet' type='text/css'>
+<!--Stle CSS-->
+
+</head>
+
+<body>
+	
+    <!-- Background Start || Background Start -->
+    <div class="with-bg-size" style="position:fixed; top:0px; left:0px; z-index:-999; width:100%; 
+        overflow-y:hidden; overflow-x:hidden; margin:auto;">
+    </div>
+    <!-- Background End || Background End-->
+    
+    <!-- Wrapper Start || Wrapper Start -->
+    <div id="wrapper">
+    	<div id="logo"></div>
+        <!-- Container Start || Container Start -->
+        
+        <!--
+        https://polariscapitalgroup.gazelleplatform.com:8181/GazelleBARRICADE/rest-ws/loanapplicationservice/create-loan-application
+        -->
+            <form id="msform" action="https://polariscapitalgroup.gazelleplatform.com:8181/GazelleBARRICADE/rest-ws/loanapplicationservice/create-loan-application">
+            <!-- Progressbar Start-->
+                <ul id="progressbar">
+                    <a href="form1.html"><li class="active">1</li></a>
+                    <a href="form2.html"><li>2</li></a>
+                    <a href="form3.html"><li>3</li></a>
+                    <a href="form4.html"><li>4</li></a>
+                    <a href="form5.html"><li>5</li></a>
+                </ul>
+            <!-- Progressbar End-->
+            
+            <!-- FieldSet 1 Start -->
+
+                <fieldset>
+                    <h4>INFORMATION ABOUT YOUR BUSINESS</h4>
+                    <input type="hidden" name="applicationId" id="applicationId" value="" />
+	            	<input type="hidden" name="currentPage" id="currentPage" value="form1.html" /> 
+    	        	<input type="hidden" name="nextPage" id="nextPage" value="http://www.polariscapitalgroup.com/onlineapplication/form2.html" /> 
+                    
+                    <input type="text" id="business" name="business" placeholder="Business Name" data-validate="required"></br>
+                    
+                    <select id="businessType" name="businessType">
+                               <option selected disabled = "Business Type">Business Type</option>
+                               <option value = "Corporation">Corporation</option>
+                               <option value="LLC">LLC</option>
+                               <option value="Partnership">Partnership</option>
+                               <option value="Limited Partnership">Limited Partnership</option>
+                               <option value="LLP">LLP</option>
+                               <option value="Sole Proprietor">Sole Proprietor</option>
+                    </select></br> 
+                   
+                    <input type="text" id="address1" name="address1" placeholder="Personal Home Address" data-validate="required"></br>
+                    <input type="text" id="address2" name="address2" placeholder="Personal Home Address 2" ></br>
+                    <input type="text" id="city" name="city" placeholder="City" data-validate="required" ></br>
+                    
+                    <select id="state" name="state">
+                        <option selected disabled="State">State</option>
+                        <option value="AL">Alabama</option>
+                        <option value="AK">Alaska</option>
+                        <option value="AZ">Arizona</option>
+                        <option value="AR">Arkansas</option>
+                        <option value="CA">California</option>
+                        <option value="CO">Colorado</option>
+                        <option value="CT">Connecticut</option>
+                        <option value="DE">Delaware</option>
+                        <option value="DC">District Of Columbia</option>
+                        <option value="FL">Florida</option>
+                        <option value="GA">Georgia</option>
+                        <option value="HI">Hawaii</option>
+                        <option value="ID">Idaho</option>
+                        <option value="IL">Illinois</option>
+                        <option value="IN">Indiana</option>
+                        <option value="IA">Iowa</option>
+                        <option value="KS">Kansas</option>
+                        <option value="KY">Kentucky</option>
+                        <option value="LA">Louisiana</option>
+                        <option value="ME">Maine</option>
+                        <option value="MD">Maryland</option>
+                        <option value="MA">Massachusetts</option>
+                        <option value="MI">Michigan</option>
+                        <option value="MN">Minnesota</option>
+                        <option value="MS">Mississippi</option>
+                        <option value="MO">Missouri</option>
+                        <option value="MT">Montana</option>
+                        <option value="NE">Nebraska</option>
+                        <option value="NV">Nevada</option>
+                        <option value="NH">New Hampshire</option>
+                        <option value="NJ">New Jersey</option>
+                        <option value="NM">New Mexico</option>
+                        <option value="NY">New York</option>
+                        <option value="NC">North Carolina</option>
+                        <option value="ND">North Dakota</option>
+                        <option value="OH">Ohio</option>
+                        <option value="OK">Oklahoma</option>
+                        <option value="OR">Oregon</option>
+                        <option value="PA">Pennsylvania</option>
+                        <option value="RI">Rhode Island</option>
+                        <option value="SC">South Carolina</option>
+                        <option value="SD">South Dakota</option>
+                        <option value="TN">Tennessee</option>
+                        <option value="TX">Texas</option>
+                        <option value="UT">Utah</option>
+                        <option value="VT">Vermont</option>
+                        <option value="VA">Virginia</option>
+                        <option value="WA">Washington</option>
+                        <option value="WV">West Virginia</option>
+                        <option value="WI">Wisconsin</option>
+                        <option value="WY">Wyoming</option>
+                    </select></br>
+                     
+                    <input type="text" id="zipCode" name="zipCode" placeholder="Zip Code" data-validate="required,number"></br>
+                    <input type="text" id="phoneNumber" name="phoneNumber" placeholder="Phone Number" data-validate="required,number"></br></br>
+                    <div id="buttonDivider2"></div>
+                    <a href="form2.html"><input type="submit" onclick="setApplicationId()" class="action-button" value="" ></a></br></br> 
+                </fieldset>
+            <!-- FieldSet 1 End -->
+ 		</form>
+      <!-- Container End || Container End -->
+    </div>
+    
+    <!-- jQuery --> 
+	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+    <script src="js/jquery.easing.min.js" type="text/javascript"></script> 
+	<script src="js/verify.min.js"></script>
+    <script src="js/notify.min.js"></script>
+    <script src="js/notify.js"></script>
+
+	<!-- gazelle queries -->
+    <script src="js/gazelle-polaris.js"></script>
+
+<!-- Wrapper End || Wrapper End -->
+<script src="js/gazelle-polaris.js"></script> 
+            
+</body>
+</html>
