@@ -8,6 +8,15 @@
 <link href="css/style.css" rel="stylesheet" type="text/css" media="screen" >
 <link href='http://fonts.googleapis.com/css?family=Anton|Muli:300,400,400italic,300italic|Oswald' rel='stylesheet' type='text/css'>
 <!--Stle CSS-->
+<!-- cdn for modernizr, if you haven't included it already -->
+<script src="http://cdn.jsdelivr.net/webshim/1.12.4/extras/modernizr-custom.js"></script>
+<!-- polyfiller file to detect and load polyfills -->
+<script src="http://cdn.jsdelivr.net/webshim/1.12.4/polyfiller.js"></script>
+<script>
+  webshims.setOptions('waitReady', false);
+  webshims.setOptions('forms-ext', {types: 'date'});
+  webshims.polyfill('forms forms-ext');
+</script>
 
 </head>
 
@@ -45,7 +54,7 @@
                         <div id="msformLeft">
                             <input type="text" id="primaryContact" name="primaryContact" placeholder="Primary Contact" data-validate="required"></br>
                             <input type="text" id="jobTitle" name="jobTitle" placeholder="Job Title" data-validate="required"></br>
-                            <input type="date" id="dateOfBirth" name="dateOfBirth" data-validate="required"></br>
+                            <input type="date" id="dateOfBirth" name="dateOfBirth" data-validate="required"/></br>
                             <input type="text" id="SSN" name="SSN" placeholder="Social Security Number" data-validate="required,number"></br>
                             <input type="text" id="businessAddress" name="businessAddress" placeholder="Business Address" data-validate="required"></br>
                             <input type="text" id="businessCity" name="businessCity" placeholder="Business City" data-validate="required"></br>
