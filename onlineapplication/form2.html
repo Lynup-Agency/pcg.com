@@ -45,7 +45,7 @@
                         <div id="msformLeft">
                             <input type="text" id="ownership" name="ownership" placeholder="% Ownership of Business" data-validate="required"></br>
                             <input type="text" id="amountRequested" name="amountRequested" placeholder="Amount Requested" data-validate="required,number"></br>
-                            <textarea name="useOfFunds" id="useOfFunds" placeholder="Use of Funds" span class="bigTxt"></textarea></br>
+                            <textarea name="useOfFunds" id="useOfFunds" placeholder="Use of Funds" maxlength="256" span class="bigTxt"></textarea></br>
                             <input type="text" id="tradeRef1" name="tradeRef1" placeholder="1st Trade Reference" ></br>
                             <input type="text" id="tradeRef2" name="tradeRef2" placeholder="2nd Trade Reference" ></br>
                             <input type="text" id="tradeRef3" name="tradeRef3" placeholder="3rd Trade Reference" ></br>
@@ -74,7 +74,7 @@
                                <option value = "No">No</option>
                             </select></br> 
 
-                            <textarea id="useOfProceeds" name="useOfProceeds" placeholder="Use of Proceeds" 
+                            <textarea id="useOfProceeds" name="useOfProceeds" maxlength="256" placeholder="Use of Proceeds" 
                             span class="bigTxt" data-validate="required"></textarea></br>
                         </div>
 						<a href="javascript:window.history.go(-1)"><input type="button" name="previous" class="action-button2" value=""></a>

@@ -55,7 +55,24 @@
 
 #step1-right {    float: left;    width: 300px;    padding-left: 25px;    margin-top: 125px;    }
 
-#checkField {    float: left;    background-image:url(../images/check.png);    background-repeat: no-repeat;    background-position: top left;    padding-left: 45px;    font-family: Oswald, San Serif;    color: #888a8e;    font-size: 18px;    font-weight: 500;    margin-top: 20px;	    }
+#checkField {    
+	float: left;    
+	background-image:url(../images/check.png);   
+	 background-repeat: no-repeat;    
+	 background-position: top left;    
+	 padding-left: 45px;    
+	 font-family: Oswald, San Serif;    
+	 color: #888a8e;    
+	 font-size: 18px;    
+	 font-weight: 500;    
+	 margin-top: 20px;	    }
+#checkField3 {    
+	 text-align: center;
+	 font-family: Oswald, San Serif;    
+	 color: #888a8e;    
+	 font-size: 18px;    
+	 font-weight: 500;    
+	 margin-top: 20px;	    }
 
 #checkField2 {    
 	float: left;    
