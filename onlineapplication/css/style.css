@@ -52,7 +52,11 @@
     -webkit-border-radius: 15px;
     border-radius: 15px;  
 }
-
+.phoneNumber {
+	text-align: right;
+	margin-top: 115px;
+	float: right;
+	}
 
 
 #step1-left {    float: left;    width: 550px;    padding-left: 25px;    }
@@ -218,6 +222,21 @@ h2 {
     margin-left: 420px;
     font-weight: 500;
     }
+.onlineProvider {
+	font-family: Oswald, San Serif;
+    font-size: 14px; 
+    color: #143B56;
+    line-height:1.5em;	    
+    font-weight: 500;
+	}
+.questions {    
+    font-family: Oswald, San Serif;
+    font-size: 18px; 
+    color: #fff;
+    line-height:1.5em;	 
+    font-weight: 500;
+    }
+
 
 h3 {
     float: left;
@@ -231,7 +250,6 @@ h3 {
     text-align: right;
     padding-bottom: 50px;
     }
-
 h4 {
     font-family: Oswald, San Serif;
     font-size:24px; 
@@ -726,7 +744,7 @@ margin-top: 7px;
     float: left;
     padding-left: 25px;
 }
-#msform .action-button4 {
+#msform .action-button5 {
 
 width: 100px;
 height: 30px;

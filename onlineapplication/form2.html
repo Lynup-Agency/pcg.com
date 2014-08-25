@@ -21,19 +21,21 @@
     
     <!-- Wrapper Start || Wrapper Start -->
     <div id="wrapper">
-    	<div id="logo"></div>
+    	<div id="logo"></div><div class="phoneNumber">
+                <div class="onlineProvider">#1 Online Provider of Business Loans</div>
+                <div class="questions">Questions? 1.800.399.2096</div>
+		</div>
         <!-- Container Start || Container Start -->
             <form id="msform" action="https://polariscapitalgroup.gazelleplatform.com:8181/GazelleBARRICADE/rest-ws/loanapplicationservice/create-loan-application">
 
             <!-- Progressbar Start-->
                 <div class="progressbar-holder">
                     <ul id="progressbar">
-                        <a href="form1.html"><li>1</li></a>
-                        <a href="form2.html"><li class="active">2</li></a>
-                        <a href="form3.html"><li>3</li></a>
-                        <a href="form4.html"><li>4</li></a>
-                        <a href="form5.html"><li>5</li></a>
-                        <a href="form6.html"><li>6</li></a>
+                        <li>1</li>
+                        <li class="active">2</li>
+                        <li>3</li>
+                        <li>4</li>
+                        <li>5</li>              
                     </ul>
                 </div>
             <!-- Progressbar End-->
@@ -67,7 +69,7 @@
                             <input type="text" id="landLord" name="landLord" placeholder="Landlord Name" ></br>
                             <input type="text" id="landLordPhone" name="landLordPhone" placeholder="Landlord Phone Number"></br>
                             <input type="text" id="creditCardProcessor" name="creditCardProcessor" placeholder="Current Credit Card Processor" 
-                            data-validate="required" ></br>
+                            ></br>
                             <input type="text" id="averageMCCV" name="averageMCCV" placeholder="Average Monthly Credit Card Volume"
                             data-validate="required"></br>
                             
@@ -77,9 +79,9 @@
                                <option value = "No">No</option>
                             </select></br> 
 
-                            <textarea id="useOfProceeds" name="useOfProceeds" maxlength="256" placeholder="Use of Proceeds" 
-                            span class="bigTxt" data-validate="required"></textarea></br>
+                            
                         </div>
+                        
 						<a href="javascript:window.history.go(-1)"><input type="button" name="previous" class="action-button2" value=""></a>
                         <div id="buttonDivider"></div>
                         <input type="submit" name="next" onclick="setApplicationId()" class="action-button" value="" ></br></br>
