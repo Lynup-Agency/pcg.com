@@ -54,6 +54,15 @@
 
                         <div class="wrapper">
 
+                            <div class="label">Please upload one of the following documents: 
+                                <br> <br><span class="smaller">
+                                - Copy of driver's license <br>
+                                - Bank Statement / Merchant Statements <br>
+                                - Voided Check <br>
+                                - Business Tax Return <br>
+                                - Copy of Business License <br></span>
+                            </div>
+
                             <form enctype="multipart/form-data" action="http://polariscapitalgroup.gazelleplatform.com:8080/GazelleBARRICADE/rest-ws/loanapplicationservice/upload-file" form id="attachment2">
                             <label class="labels"></label></br>
                             <input type="hidden" name="applicationId" id="applicationId" />
@@ -64,17 +73,33 @@
 
                             <select id="documentType" class="file-upload" style="margin-left: 25px; margin-top: 2px;" name="documentType">
                                <option selected disabled = "Document Type">Document Type</option>
-                               <option value="Copy of Driving Licence">Copy of Driving Licence</option>
+                               <option value="Copy of Driving Licence">Copy of Driving License</option>
                                <option value="Bank Statement/ Merchant Statements">Bank Statement/ Merchant Statements</option>
                                <option value="Voided Check">Voided Check</option>
                                <option value="Business Tax Return">Business Tax Return</option>
-                               <option value="Copy of Business Licence">Copy of Business Licence</option>
+                               <option value="Copy of Business Licence">Copy of Business License</option>
                             </select></br> 
 
                             <input type="submit" class="action-button5" value="" />
-                        </div>
+                            </div>
                             </form>
 
+
+                            <div class="upload-response">
+                                Upload Response
+                                <!--On Success:
+
+                                    "Your document has been uploaded, please upload another or proceed to your summary."
+
+                                    -->
+
+                                <!-- On fail:
+                                    
+                                    "Sorry, something went wrong. Please try again or proceed to your summary."
+
+                                -->
+
+                            </div>
                             
                         </div>
 
