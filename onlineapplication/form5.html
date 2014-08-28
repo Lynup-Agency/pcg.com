@@ -26,7 +26,12 @@
                 <div class="questions">Questions? 1.800.399.2096</div>
 		</div>
         <!-- Container Start || Container Start -->
+
 		<div id="msform" >
+
+            <form id="msform" action="https://polariscapitalgroup.gazelleplatform.com:8181/GazelleBARRICADE/rest-ws/loanapplicationservice/create-loan-application">
+
+
             <!-- Progressbar Start-->
                 <div class="progressbar-holder">
                     <ul id="progressbar">
@@ -60,8 +65,19 @@
                         <div id="msformLeft1">
 
                         <div class="wrapper">
-
                             <form enctype="multipart/form-data" method="post" action="https://polariscapitalgroup.gazelleplatform.com:8181/GazelleBARRICADE/rest-ws/loanapplicationservice/upload-file" id="fileuploadForm">
+
+                            <div class="label">Please upload one of the following documents: 
+                                <br> <br><span class="smaller">
+                                - Copy of driver's license <br>
+                                - Bank Statement / Merchant Statements <br>
+                                - Voided Check <br>
+                                - Business Tax Return <br>
+                                - Copy of Business License <br></span>
+                            </div>
+
+                            <form enctype="multipart/form-data" action="https://polariscapitalgroup.gazelleplatform.com:8181/GazelleBARRICADE/rest-ws/loanapplicationservice/upload-file" form id="attachment2">
+
                             <label class="labels"></label></br>
                             <input type="hidden" name="applicationId2" id="applicationId2" />
                             <input type="hidden" name="currentPage" id="currentPage" value="http://www.polariscapitalgroup.com/onlineapplication/form5.html" /> 
@@ -85,11 +101,7 @@
                         </div>
                             </form>
 
-                            
                         </div>
-
-                       
-                       
 
 						<!-- <a href="form3.html"> -->
 						<a href="javascript:window.history.go(-1)"><input type="button" name="previous" onclick="setApplicationId()" class="action-button2" value=""></a>
