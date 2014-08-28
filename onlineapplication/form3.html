@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" >
-<title>Polaris CG | Form</title>
+<title>Polaris Capital Group | Loan Application Form</title>
 
 <!--Stle CSS-->
 <link href="css/style.css" rel="stylesheet" type="text/css" media="screen" >
@@ -60,7 +60,7 @@
                         <div id="msformLeft">
                             <input type="text" id="primaryContact" name="primaryContact" placeholder="Primary Contact" data-validate="required"></br>
                             <input type="text" id="jobTitle" name="jobTitle" placeholder="Job Title" data-validate="required"></br>
-                            <input type="text" id="dateOfBirth" name="dateOfBirth" placeholder="Date of Birth" data-validate="required"></br>
+                            <input type="date" id="dateOfBirth" placeholder="Date of Birth" name="dateOfBirth" data-validate="required"/></br>
                             <input type="text" id="SSN" name="SSN" placeholder="Social Security Number" data-validate="required,number"></br>
                             <input type="text" id="businessAddress" name="businessAddress" placeholder="Business Address" data-validate="required"></br>
                             <input type="text" id="businessCity" name="businessCity" placeholder="Business City" data-validate="required"></br>
@@ -189,7 +189,7 @@
                             <input type="text" id="businessZip2" name="businessZip2" placeholder="Business Zip Code" ></br>                        
                         
                         </div>
-						<a href="javascript:window.history.go(-1)" onclick="setApplicationId()"><input type="button" name="previous" onclick="setApplicationId()" class="action-button2" value=""></a>
+						<a href="javascript:window.history.go(-1)"><input type="button" name="previous" onclick="setApplicationId()" class="action-button2" value=""></a>
                         <div id="buttonDivider"></div>
                         <input type="submit" name="next" onclick="setApplicationId()" class="action-button" value="" ></br></br>
                 </fieldset>
