@@ -893,3 +893,23 @@ input[type="submit"]{
 
 
 
+
+/* extends */
+
+.upload-doctype{
+    font-family: arial, sans-serif;
+    font-size: 124x;
+}
+
+.upload-doctype .doc-list{
+    font-size: 12px;
+    display: inline-block;
+    margin-top: 5px;
+}
+
+
+
+
+
+
+
