@@ -22,8 +22,7 @@
     <!-- Wrapper Start || Wrapper Start -->
     <div id="wrapper">
     
-        <div id="logo"></div><div class="phoneNumber">
-                 
+        <div id="logo"></div><div class="phoneNumber">                 
                 <div class="questions">Questions? 1.800.399.2096</div>
 		</div>
         <!-- Container Start || Container Start -->
@@ -50,18 +49,21 @@
 	            	<input type="hidden" name="currentPage" id="currentPage" value="form1.html" /> 
     	        	<input type="hidden" name="nextPage" id="nextPage" value="http://www.polariscapitalgroup.com/onlineapplication-dev/form2.html" /> 
                     
+                    <span class="field-title">Business Name</span>
                     <input type="text" id="business" name="business" placeholder="Business Name" data-validate="required"></br>
                     
+                    <span class="field-title">Business Type</span> 
                     <select id="businessType" name="businessType">
-                               <option selected disabled = "Business Type">Business Type</option>
-                               <option value = "Corporation">Corporation</option>
-                               <option value="LLC">LLC</option>
-                               <option value="Partnership">Partnership</option>
-                               <option value="Limited Partnership">Limited Partnership</option>
-                               <option value="LLP">LLP</option>
-                               <option value="Sole Proprietor">Sole Proprietor</option>
+                       <option selected disabled = "Business Type">Business Type</option>
+                       <option value = "Corporation">Corporation</option>
+                       <option value="LLC">LLC</option>
+                       <option value="Partnership">Partnership</option>
+                       <option value="Limited Partnership">Limited Partnership</option>
+                       <option value="LLP">LLP</option>
+                       <option value="Sole Proprietor">Sole Proprietor</option>
                     </select></br> 
                    
+                    <span class="field-title">Home Address</span> 
                     <input type="text" id="address1" name="address1" placeholder="Personal Home Address" data-validate="required"></br>
                     <input type="text" id="address2" name="address2" placeholder="Personal Home Address 2" ></br>
                     <input type="text" id="city" name="city" placeholder="City" data-validate="required" ></br>
@@ -122,6 +124,8 @@
                     </select></br>
                      
                     <input type="text" id="zipCode" name="zipCode" placeholder="Zip Code" data-validate="required,number"></br>
+
+                    <span class="field-title">Phone Number</span> 
                     <input type="text" id="phoneNumber" name="phoneNumber" placeholder="Phone Number" data-validate="required,number"></br></br>
                     <div id="buttonDivider2"></div>
                     <a href="form2.html"><input type="submit" onclick="setApplicationId()" class="action-button" value="" ></a></br></br> 
