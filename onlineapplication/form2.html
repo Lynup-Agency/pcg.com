@@ -49,10 +49,10 @@
                     
                         <div id="msformLeft">
                             <span class="field-title">% of Business Ownership</span> 
-                            <input type="text" id="ownership" name="ownership" placeholder="% Ownership of Business" data-validate="required"></br>
+                            <input type="text" id="ownership" name="ownership" placeholder="Ownership of Business" data-validate="required" style="width: 220px;"> %</br>
 
                             <span class="field-title">Loan Amount Requested</span> 
-                            <input type="text" id="amountRequested" name="amountRequested" placeholder="Amount Requested" data-validate="required,number"></br>
+                            $ <input type="text" id="amountRequested" name="amountRequested" placeholder="Amount Requested" data-validate="required,number"><br/>
                             <span class="field-title">Intended Use of Funds</span> 
                             <textarea name="useOfFunds" id="useOfFunds" placeholder="Use of Funds" maxlength="256" span class="bigTxt"></textarea></br>
 
@@ -60,19 +60,20 @@
                             <input type="text" id="tradeRef1" name="tradeRef1" placeholder="1st Trade Reference" ></br>
                             <input type="text" id="tradeRef2" name="tradeRef2" placeholder="2nd Trade Reference" ></br>
                             <input type="text" id="tradeRef3" name="tradeRef3" placeholder="3rd Trade Reference" ></br>
-                            <input type="text" id="industryType" name="industryType" placeholder="Industry Type" ></br>
-                            
+                            <input type="text" id="industryType" name="industryType" placeholder="Industry Type" ></br>   
+                        </div>
+
+                        <div id="msformDivider"></div>
+
+                        <div id="msformRight">
                             <span class="field-title">Office Mortgage or Lease</span> 
                             <select id = "officeRented" name="officeRented">                                
                                <option selected disabled = "officeRented">Office Mortgaged?</option>
                                <option value = "Yes">Yes</option>
                                <option value = "No">No</option>
                             </select></br>
-                        </div>
 
-                        <div id="msformDivider"></div>
 
-                        <div id="msformRight">
                             <span class="field-title">If leased, please provide Landlord Contact</span> 
                             <input type="text" id="landLord" name="landLord" placeholder="Landlord Name" ></br>
                             <input type="text" id="landLordPhone" name="landLordPhone" placeholder="Landlord Phone Number"></br>
