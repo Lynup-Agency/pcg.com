@@ -51,26 +51,26 @@
                     
                         <div id="msformLeft">
                             <span class="field-title">Average Account Balance</span> 
-                            $ <input type="text" id="avgBankBalance" name="avgBankBalance" placeholder="Average Bank Balance" data-validate="required,number" style="width: 238px;"></br>
+                            $ <input type="text" id="avgBankBalance" name="avgBankBalance" placeholder="Average Bank Balance" data-validate="required,number" style="width: 238px;" onkeypress="return isNumberKey(event)"></br>
 
                             <span class="field-title">Federal Tax ID</span> 
                             <input type="text" id="fedTaxID" name="fedTaxID" placeholder="Federal Tax ID" data-validate="required"></br>
 
                             <span class="field-title">Year Established</span> 
-                            <input type="text" id="yearStarted" name="yearStarted" placeholder="ex 2004" data-validate="required" ></br>
+                            <input type="text" id="yearStarted" name="yearStarted" placeholder="ex 2004" data-validate="required" onkeypress="return isNumberKey(event)"></br>
 
                             <span class="field-title">Email Address</span> 
                             <input type="email" id="businessEmail" name="businessEmail" placeholder="Email Address" data-validate="required,email"></br>
 
                             <span class="field-title">Gross Sales</span> 
-                            <input type="text" id="annualGrossSales" name="annualGrossSales" placeholder="Annual and Monthly Gross Sales" data-validate="required,number"></br>
+                            $ <input type="text" id="annualGrossSales" name="annualGrossSales" placeholder="Annual and Monthly Gross Sales" data-validate="required,number" style="width: 238px;" onkeypress="return isNumberKey(event)"></br>
 
                             <span class="field-title">Quarterly Credit Card Processing</span> 
-                            <input type="text" id="totalCreditCard" name="totalCreditCard" placeholder="Total Credit Card processing for four months" data-validate="required,number" ></br>
+                            <input type="text" id="totalCreditCard" name="totalCreditCard" placeholder="Total Credit Card processing for four months" data-validate="required,number" onkeypress="return isNumberKey(event)"></br>
 
                             <span class="field-title">Total Amount Requested</span> 
-                            $ <input type="text" id="totalAmount" name="totalAmount" placeholder="Total Amount Requested for Borrowing" data-validate="required,number" style="width: 238px;"></br>
-                            $ <input type="text" id="amountPerMonths" name="amountPerMonths" placeholder="Amount per months 1-4 in CC sales" data-validate="required,number" style="width: 238px;"></br>     
+                            $ <input type="text" id="totalAmount" name="totalAmount" placeholder="Total Amount Requested for Borrowing" data-validate="required,number" style="width: 238px;" onkeypress="return isNumberKey(event)"></br>
+                            $ <input type="text" id="amountPerMonths" name="amountPerMonths" placeholder="Amount per months 1-4 in CC sales" data-validate="required,number" style="width: 238px;" onkeypress="return isNumberKey(event)"></br>     
                         </div>
 
                         <div id="msformDivider"></div>
@@ -123,6 +123,7 @@
 	<script src="js/verify.min.js"></script>
     <script src="js/notify.min.js"></script>
     <script src="js/notify.js"></script>
+    <script src="js/custom.js"></script>
     <script>
         $(function() {
         

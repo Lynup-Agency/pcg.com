@@ -49,10 +49,10 @@
                     
                         <div id="msformLeft">
                             <span class="field-title">% of Business Ownership</span> 
-                            <input type="text" id="ownership" name="ownership" placeholder="Ownership of Business" data-validate="required" style="width: 220px;"> %</br>
+                            <input type="text" id="ownership" name="ownership" placeholder="Ownership of Business" data-validate="required" style="width: 220px;" onkeypress="return isNumberKey(event)"> %</br>
 
                             <span class="field-title">Loan Amount Requested</span> 
-                            $ <input type="text" id="amountRequested" name="amountRequested" placeholder="Amount Requested" data-validate="required,number"><br/>
+                            $ <input type="text" id="amountRequested" name="amountRequested" placeholder="Amount Requested" data-validate="required,number" onkeypress="return isNumberKey(event)"><br/>
                             <span class="field-title">Intended Use of Funds</span> 
                             <textarea name="useOfFunds" id="useOfFunds" placeholder="Use of Funds" maxlength="256" span class="bigTxt"></textarea></br>
 
@@ -79,10 +79,9 @@
                             <input type="text" id="landLordPhone" name="landLordPhone" placeholder="Landlord Phone Number"></br>
 
                             <span class="field-title">Credit Card Processor and Volume</span> 
-                            <input type="text" id="creditCardProcessor" name="creditCardProcessor" placeholder="Current Credit Card Processor" 
-                            ></br>
+                            <input type="text" id="creditCardProcessor" name="creditCardProcessor" placeholder="Current Credit Card Processor" onkeypress="return isNumberKey(event)"></br>
                             <input type="text" id="averageMCCV" name="averageMCCV" placeholder="Average Monthly Credit Card Volume"
-                            data-validate="required"></br>
+                            data-validate="required" onkeypress="return isNumberKey(event)"></br>
                             
                             <span class="field-title">Other Contracts or Loans</span> 
                             <select id = "otherContracts" name="otherContracts">
@@ -108,6 +107,7 @@
 	<script src="js/verify.min.js"></script>
     <script src="js/notify.min.js"></script>
     <script src="js/notify.js"></script>
+    <script src="js/custom.js"></script>
     <script>
         $(function() {
         
