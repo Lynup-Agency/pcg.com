@@ -68,7 +68,7 @@
                             <input type="text" id="dateOfBirth" placeholder="Date of Birth" name="dateOfBirth" data-validate="required"/></br>
 
                             <span class="field-title">Social Security Number</span> 
-                            <input type="text" id="SSN" name="SSN" placeholder="Social Security Number" data-validate="required,number"></br>
+                            <input type="text" id="SSN" name="SSN" placeholder="Social Security Number" data-validate="required,number" maxlength="9" onkeypress="return isNumberKey(event)"></br>
 
                             <span class="field-title">Business Address</span> 
                             <input type="text" id="businessAddress" name="businessAddress" placeholder="Business Address" data-validate="required"></br>
