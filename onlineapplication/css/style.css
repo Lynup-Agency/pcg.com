@@ -937,6 +937,10 @@ input[type="submit"]{
     height: 30px !important;
 }
 
+#progressbar{
+    margin-left: 250px;
+}
+
 
 
 
