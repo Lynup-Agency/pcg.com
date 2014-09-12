@@ -953,6 +953,10 @@ input[type="submit"]{
     margin-left: 250px;
 }
 
+.fileupload-response{
+    font-size: 12px;
+}
+
 
 
 

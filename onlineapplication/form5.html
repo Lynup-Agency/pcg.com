@@ -79,8 +79,16 @@
                             </br>
                             <input type="submit" class="action-button5" value="" onclick="setApplicationIdForFileUpload()" />
                             </form>
-	                        <center>               
-								<iframe id="applicationFileListFrame" frameborder="0" scrolling="no" width="800px" height="1300px" style="padding-right: 10px;" src="https://polariscapitalgroup.gazelleplatform.com:8181/GazelleBARRICADE/rest-ws/loanapplicationservice/get-application-file-list">
+                            <<!-- div class="fileupload-response" style="font-size: 12px; font-family: Arial, sans-serif;">
+                                <div>Files uploaded for application: </div>
+                                <ul style="list-style-type: none;">
+                                    <li>document name 1</li>
+                                    <li>document name 2</li>
+                                    <li>document name 3</li>
+                                </ul>
+                            </div> -->
+	                       <center>               
+								<iframe id="applicationFileListFrame" frameborder="0" scrolling="no" width="800px" height="500px" style="padding-right: 10px;" src="https://polariscapitalgroup.gazelleplatform.com:8181/GazelleBARRICADE/rest-ws/loanapplicationservice/get-application-file-list">
 								</iframe>
          					</center>
                         </div>
@@ -113,16 +121,8 @@
         params = loc.split('?')[1];  
         iframe = document.getElementById("applicationFileListFrame");        
 	    iframe.src = iframe.src + '?' + params; 
-        /**
-        $(function() {
-        
-        $(".submit").click(function(){
-            alert('Data sent');
-        })
-        
-        });
-        **/
-        </script>
+
+    </script>
 <!-- Wrapper End || Wrapper End -->
 <script src="js/gazelle-polaris.js"></script> 
 
