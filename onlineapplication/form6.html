@@ -50,7 +50,7 @@
 -->
                     <input type="hidden" name="applicationId" id="applicationId" />
 	            	<input type="hidden" name="currentPage" id="currentPage" value="form6.html" /> 
-    	        	<input type="hidden" name="nextPage" id="nextPage" value="http://www.polariscapitalgroup.com/onlineapplication-dev/form7.html" /> 
+    	        	<input type="hidden" name="nextPage" id="nextPage" value="https://polariscapitalgroup.gazelleplatform.com/onlineapplication/form7.html" /> 
 
             <!-- FieldSet 3 Start -->
 
@@ -95,14 +95,13 @@
 <script src="js/gazelle-polaris.js"></script> 
 <script>
 
-    $(document).ready(function()  
-    {  
-        var loc = window.location.toString(),  
-        params = loc.split('?')[1],  
-        iframe = document.getElementById("summaryFrame");  
-      
-    iframe.src = iframe.src + '?' + params;  
-    });  
+    //$(document).ready(function()  
+    //{  
+    //});  
+        var loc = window.location.toString();  
+        params = loc.split('?')[1];  
+        iframe = document.getElementById("summaryFrame");        
+	    iframe.src = iframe.src + '?' + params;  
     
 </script>
             
