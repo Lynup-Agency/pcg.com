@@ -8,7 +8,17 @@
     background-size: cover;
   }
 
-
+  @font-face {
+    font-family: 'Oswald';
+    src: url('fonts/oswald-regular-webfont.eot');
+    src: url('fonts/oswald-regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/oswald-regular-webfont.woff2') format('woff2'),
+         url('fonts/oswald-regular-webfont.woff') format('woff'),
+         url('fonts/oswald-regular-webfont.ttf') format('truetype'),
+         url('fonts/oswald-regular-webfont.svg#oswaldbook') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
 
 #wrapper {    margin: 0 auto;    padding: 0 auto;    width: 900px;    }
 
@@ -90,11 +100,11 @@
 
     font-family: Oswald, Arial, Sans-Serif;    
     color: #888a8e;    
-    font-size: 22px;    
+    font-size: 21px;    
     font-weight: 500;   
-    margin-top: 25px;   
+    margin-top: 15px;   
     padding-left: 45px; 
-    padding-bottom: 5px;   
+    padding-bottom: 10px;   
 }
 
 /**
@@ -204,17 +214,17 @@ float: left;
 
 
 h1 {
-    font-family: Oswald, San Serif;
+    font-family: Oswald, Arial, Sans-Serif;    
     font-size:28px; 
     color: #143B56;
-    line-height:1.5em;
-    margin-bottom: -5px;
+    line-height: 1em;
+    margin-bottom: 25px;
     margin-top: 30px;	
     }
 
 h2 {
     float: left;
-    font-family: Oswald, San Serif;
+    font-family: Oswald, Arial, Sans-Serif;    
     font-size: 20px; 
     color: #143B56;
     line-height:1.5em;	
@@ -223,14 +233,14 @@ h2 {
     font-weight: 500;
     }
 .onlineProvider {
-	font-family: Oswald, San Serif;
+	font-family: Oswald, Arial, Sans-Serif;    
     font-size: 14px; 
     color: #143B56;
     line-height:1.5em;	    
     font-weight: 500;
 	}
 .questions {    
-    font-family: Oswald, San Serif;
+    font-family: Oswald, Arial, Sans-Serif;    
     font-size: 18px; 
     color: #fff;
     line-height:1.5em;	 
@@ -240,7 +250,7 @@ h2 {
 
 h3 {
     float: left;
-    font-family: Oswald, San Serif;
+    font-family: Oswald, Arial, Sans-Serif;    
     font-size: 20px; 
     color: #888a8e;
     line-height:1.5em;	
@@ -251,7 +261,7 @@ h3 {
     padding-bottom: 50px;
     }
 h4 {
-    font-family: Oswald, San Serif;
+    font-family: Oswald, Arial, Sans-Serif;    
     font-size:24px; 
     color: #143B56;
     line-height:1.5em;
@@ -259,7 +269,7 @@ h4 {
     margin-top: 75px;	
     }
 h5 {
-    font-family: Oswald, San Serif;
+    font-family: Oswald, Arial, Sans-Serif;    
     font-size:24px; 
     color: #143B56;
     line-height:1.5em;
@@ -268,7 +278,7 @@ h5 {
 	text-align: center;
     }
 h6 {
-    font-family: Oswald, San Serif;
+    font-family: Oswald, Arial, Sans-Serif;    
     font-size:36px; 
     color: #143B56;
     line-height:1.5em;
@@ -278,7 +288,7 @@ h6 {
     }
 
 .sivo {
-    font-family: Oswald, San Serif;
+    font-family: Oswald, Arial, Sans-Serif;    
     font-size:24px; 
     color: #888a8e;
     line-height:1.5em;
@@ -464,6 +474,8 @@ float: left;
 position: relative;
 
 width: 80px;
+
+font-family: Oswald, Arial, Sans-serif;
 
 }
 
