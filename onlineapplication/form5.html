@@ -87,10 +87,14 @@
                                     <li>document name 3</li>
                                 </ul>
                             </div> -->
-	                       <center>               
-								<iframe id="applicationFileListFrame" frameborder="0" scrolling="no" width="800px" height="500px" style="padding-right: 10px;" src="https://polariscapitalgroup.gazelleplatform.com:8181/GazelleBARRICADE/rest-ws/loanapplicationservice/get-application-file-list">
-								</iframe>
-         					</center>
+                            <br />
+                            <div class="fileupload-response" style="font-size: 12px; font-family: Arial, sans-serif;">
+    							<div>Files uploaded for application: </div>
+    								<center>               
+									<iframe id="applicationFileListFrame" frameborder="0" scrolling="no" width="800px" height="500px" style="padding-right: 10px;" src="https://polariscapitalgroup.gazelleplatform.com:8181/GazelleBARRICADE/rest-ws/loanapplicationservice/get-application-file-list">
+									</iframe>
+								    </center>
+							</div>
                         </div>
                             
                         </div>
@@ -117,6 +121,8 @@
     <script src="js/notify.js"></script>
     <script>
     
+    /*
+    */
 	    var loc = window.location.toString();  
         params = loc.split('?')[1];  
         iframe = document.getElementById("applicationFileListFrame");        
