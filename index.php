@@ -97,7 +97,8 @@
               ga('create', 'UA-34436510-2', 'auto');
               ga('send', 'pageview');
             
-            </script>        </head>
+</script>
+</head>
 <body>
     <div class="site-wrapper">
 		

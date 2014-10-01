@@ -219,10 +219,13 @@
 								<div class="icon-box-body">
 									<br />
 									<div class="section-header"> 
-									  <h2>Point of Sale Loans</h2>
+									  <h2>Merchant Cash Advances</h2>
                                   </div>
 									<p>
-									Need up to $30,000 in financing quickly? A merchant cash advance could be your option. Financing through a merchant cash advance is a simple and cost-effective way to obtain a low interest business loan. Your personal banking team will work with you to assess your needs and can provide you with up to $30,000 based on the credit card transactions your business generates. This will lower your interest financing, which means you will see significant savings compared to a traditional amortized, interest-bearing loan.
+									Merchant Cash Advances from Polaris Capital Group are a great financing option for small businesses that accept credit cards. This alternative business financing was created specifically to address the problems of traditional financing options like complicated approval processes, long waiting periods, spending restrictions and high decline rates. You get a lump sum of cash deposited directly into your bank account!</p>
+
+									<p>You receive cash in exchange for a fixed dollar amount of your future credit card sales. At the end of every day, our automated process retrieves a small fixed percentage of your daily transactions until your advance is paid off. There are no checks to write, no invoices to pay. You get your cash up front and in full. There’s no collateral required and no hidden fees or up-front costs.
+
 									</p>
 									<!-- <a href="#" class="btn btn-default">Read More</a> -->
 								</div>
@@ -239,7 +242,7 @@
 									<div class="section-header"> 
 									  <h2>Inventory 100% LTV Financing</h2>
                                 </div>
-									<p>
+									<p style="margin-top:-30px;">
 									Businesses that require the maintenance of an inventory know that valuable cash can often be tied up in a warehouse. Your inventory can be your collateral to access the funding your business needs for growth or even new equipment. Your expert private banking team can provide you with a low documentation loan process that bases your commercial business loan amount on the value of your existing inventory. This loan can be approved and funded quickly with limited documentation.
 									</p>
 									<!-- <a href="#" class="btn btn-default">Read More</a> -->
