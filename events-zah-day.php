@@ -6,8 +6,8 @@
 	================================================== -->
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<title>Our Story | Responsive HTML5 Template</title>
-	<meta name="description" content="Stability - Responsive HTML5 Template - 1.5">
+	<title>Events | Company Events</title>
+	<meta name="description" content="Events | Company Events">
 	<meta name="author" content="http://themeforest.net/user/dan_fisher">
 	
 

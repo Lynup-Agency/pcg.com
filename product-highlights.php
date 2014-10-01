@@ -7,7 +7,7 @@
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<title>Small Business LTV Inventory Working Capital POS Loans</title>
-	<meta name="description" content="Polaris Capital Group">
+	<meta name="description" content="Small Business LTV Inventory Working Capital POS Loans">
 	<meta name="author" content="http://www.lynupsocial.com">
 	
 

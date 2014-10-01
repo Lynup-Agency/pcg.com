@@ -7,7 +7,7 @@
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<title>FAQs | Polaris Capital Group</title>
-	<meta name="description" content="Stability - Responsive HTML5 Template - 1.5">
+	<meta name="description" content="FAQs | Polaris Capital Group">
 	<meta name="author" content="http://themeforest.net/user/dan_fisher">
 	
 
